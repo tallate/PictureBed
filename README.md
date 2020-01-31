@@ -75,6 +75,4 @@ docker system prune -a
 1. [Redux](https://redux.js.org/)
 1. [React file upload: proper and easy way, with NodeJS!](https://programmingwithmosh.com/javascript/react-file-upload-proper-server-side-nodejs-easy/)
 [krissnawat / simple-react-upload](https://github.com/krissnawat/simple-react-upload)
-1. [bytedeco / javacpp](https://github.com/bytedeco/javacpp)
-1. [bytedeco / javacv](https://github.com/bytedeco/javacv)
-[samples](https://github.com/bytedeco/javacv/tree/master/samples/)
+

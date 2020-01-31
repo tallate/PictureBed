@@ -1,0 +1,19 @@
+.ImageList-body {
+    width: 100%;
+    min-height: 1000px;
+}
+
+.ImageList-Row {
+    width: 100%;
+    min-height: 100px;
+}
+
+.ImageList-Col {
+    min-width: 100px;
+    min-height: 100px;
+}
+
+.ImageList-img {
+    max-width: 90px;
+    max-height: 90px;
+}
